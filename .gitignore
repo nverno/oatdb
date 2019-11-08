@@ -1,0 +1,14 @@
+*.s
+*.o
+*.out
+*.so
+*~
+.#*
+*.native
+*.byte
+_output/
+GPATH
+GRTAGS
+GTAGS
+
+.merlin
